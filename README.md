@@ -9,7 +9,7 @@ Pantalla Negra ofrece una pantalla negra en línea en modo pantalla completa, pr
 ### 1. Clone project
 
 ```bash
-git clone git@github.com:histeven168/pantallanegra.git
+git clone git@github.com:histeven168/pantalla-negra.git
 ```
 
 ### 2. Install dependencies
